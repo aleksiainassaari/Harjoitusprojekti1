@@ -1,0 +1,14 @@
+C:\Olio-ohjelmointi\Harjoitusprojekti1\obj\Debug\net10.0\Harjoitusprojekti1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Olio-ohjelmointi\Harjoitusprojekti1\obj\Debug\net10.0\Harjoitusprojekti1.AssemblyInfoInputs.cache
+C:\Olio-ohjelmointi\Harjoitusprojekti1\obj\Debug\net10.0\Harjoitusprojekti1.AssemblyInfo.cs
+C:\Olio-ohjelmointi\Harjoitusprojekti1\obj\Debug\net10.0\Harjoitusprojekti1.csproj.CoreCompileInputs.cache
+C:\Olio-ohjelmointi\Harjoitusprojekti1\bin\Debug\net10.0\Harjoitusprojekti1.exe
+C:\Olio-ohjelmointi\Harjoitusprojekti1\bin\Debug\net10.0\Harjoitusprojekti1.deps.json
+C:\Olio-ohjelmointi\Harjoitusprojekti1\bin\Debug\net10.0\Harjoitusprojekti1.runtimeconfig.json
+C:\Olio-ohjelmointi\Harjoitusprojekti1\bin\Debug\net10.0\Harjoitusprojekti1.dll
+C:\Olio-ohjelmointi\Harjoitusprojekti1\bin\Debug\net10.0\Harjoitusprojekti1.pdb
+C:\Olio-ohjelmointi\Harjoitusprojekti1\obj\Debug\net10.0\Harjoitusprojekti1.dll
+C:\Olio-ohjelmointi\Harjoitusprojekti1\obj\Debug\net10.0\refint\Harjoitusprojekti1.dll
+C:\Olio-ohjelmointi\Harjoitusprojekti1\obj\Debug\net10.0\Harjoitusprojekti1.pdb
+C:\Olio-ohjelmointi\Harjoitusprojekti1\obj\Debug\net10.0\Harjoitusprojekti1.genruntimeconfig.cache
+C:\Olio-ohjelmointi\Harjoitusprojekti1\obj\Debug\net10.0\ref\Harjoitusprojekti1.dll
